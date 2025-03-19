@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Montero Airlines</string>
+    <string name="welcome">Bienvenido/a a</string>
+    <string name="name">Nombre(s)</string>
+    <string name="btn_iniciar">Comenzar a Reservar</string>
+    <string name="origen">Origen</string>
+    <string name="apellidos">Apellido(s)</string>
+    <string name="destino">Destino</string>
+    <string name="fecha_de_salida">Fecha de Salida</string>
+    <string name="fecha_de_regreso">Fecha de Regreso</string>
+    <string name="hora">Hora del vuelo de ida</string>
+    <string name="hora2">Hora del vuelo de regreso</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="id_viajero">ID de Viajero Frecuente (Máx 8)</string>
+    <string name="VT_welcome">Bienvenido/a a Montero Airlines</string>
+    <string name="btn_reservar">Reservar</string>
+    <string name="set_date">Volarías de ida el %01$d/%02$d/%3$d</string>
+    <string name="set_dateb">Volarías de regreso el día %01$d/%02$d/%3$d</string>
+    <string name="error_email">Ingresa un correo electronico válido</string>
+    <string name="error_date">Existe discrepancia en las fechas, por favor verifícalo</string>
+    <string name="error_lugar">El destino seleccionado no es válido</string>
+    <string name="error_viajerofrecuente">El número de viajero frecuente no es válido</string>
+    <string name="error_nombre">El nombre ingresado contiene caracteres inválidos</string>
+    <string name="error_apellido">El apellido ingresado contiene caracteres inválidos</string>
+    <string name="order_resume">Aquí tienes un resumen de tu orden:</string>
+    <string name="greeting">Hola ahí %s!</string>
+    <string name="complete_name">Pasajero: %s</string>
+    <string name="flightdetails1">Tu vuelo tiene origen en: %s</string>
+    <string name="horayfecha">Partiendo el %1$s%2$s%3$s a las %4$s</string>
+    <string name="asientos">Tu asiento en el vuelo de ida es: %1$d%2$s</string>
+    <string name="flightdetails2">Tu vuelo tiene como destino: %s</string>
+    <string name="horayfecha2">Regresando el %1$s%2$s%3$s a las %4$s</string>
+    <string name="asientos2">Tu asiento en el vuelo de regreso es: %1$d%2$s</string>
+    <string name="monto">El monto de tu vuelo es: %s</string>
+    <string name="monto_des_ad">ID de Viajero Frecuente: Cuentas con un %s OFF</string>
+    <string name="monto_final">El monto final de tu vuelo es de: $%s</string>
+    <string name="email_aviso">Enviamos una confirmación a tu correo: %s</string>
+</resources>

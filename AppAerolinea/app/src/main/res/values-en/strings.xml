@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name(s)</string>
+    <string name="welcome">Welcome to</string>
+    <string name="btn_iniciar">Start Booking</string>
+    <string name="origen">Fly from</string>
+    <string name="apellidos">Last Name</string>
+    <string name="destino">Destination</string>
+    <string name="fecha_de_salida">Departure Date</string>
+    <string name="fecha_de_regreso">Return Date</string>
+    <string name="hora">Departure flight Hour</string>
+    <string name="hora2">Return flight Hour</string>
+    <string name="id_viajero">Frecuent Traveler ID (Max 8)</string>
+    <string name="VT_welcome">Welcome to Montero Airlines</string>
+    <string name="btn_reservar">Book</string>
+    <string name="set_date">Your departure date is %02$d/%01$d/%3$d</string>
+    <string name="set_dateb">Your return date is %02$d/%01$d/%3$d</string>
+    <string name="error_email">Enter a valid Email</string>
+    <string name="error_date">There are a mistake in the dates, please check the info and try again</string>
+    <string name="error_lugar">The selected destination is not valid</string>
+    <string name="error_viajerofrecuente">The Frecuent Traveler ID is not valid</string>
+    <string name="error_nombre">The name containts invalid characters</string>
+    <string name="error_apellido">The last name contains invalid characters</string>
+    <string name="order_resume">Here is your order resume:</string>
+    <string name="greeting">Hello there %s!</string>
+    <string name="complete_name">Passenger: %s</string>
+    <string name="flightdetails1">You are flying from: %s</string>
+    <string name="horayfecha">The day %2$s%1$s%3$s at %4$s</string>
+    <string name="asientos">Your seat at the departure flight is: %1$d%2$s</string>
+    <string name="flightdetails2">The flight is landing in: %s</string>
+    <string name="horayfecha2">Flying back the %2$s%1$s%3$s at %4$s</string>
+    <string name="asientos2">Your seat at the return flight is: %1$d%2$s</string>
+    <string name="monto">Your ticket price is: %s</string>
+    <string name="monto_des_ad">Frecuent Traveler ID: You count with a %s OFF</string>
+    <string name="monto_final">Your final ticket price is: $%s</string>
+    <string name="email_aviso">We have sent you a confrim mail to: %s</string>
+</resources>
